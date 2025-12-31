@@ -1,6 +1,6 @@
-# Livation – MERN Pastebin-like Chat App
+#  MERN Pastebin-like Chat App
 
-**Livation** is a web application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) that allows users to create, share, and view text snippets (pastes) online. It combines the simplicity of Pastebin with optional chat features for real-time communication.
+This is a web application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) that allows users to create, share, and view text snippets (pastes) online. It combines the simplicity of Pastebin with optional chat features for real-time communication.
 
 ---
 

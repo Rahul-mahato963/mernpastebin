@@ -39,6 +39,7 @@ npm run dev
 3.Frontend Setup:
 cd frontend
 npm install
+https://github.com/Rahul-mahato963/mernpastebin/blob/9f6b427be10459b49ab30caad71e469cf83dbecc/Screenshot%20(82).png
 
 Start frontend
 npm run dev

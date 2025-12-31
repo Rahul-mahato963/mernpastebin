@@ -7,7 +7,7 @@ import cors from "cors"
 dotenv.config();
 const app = express();
 app.use(cors({
-    origin: "https://mernpastebin-production1.onrender.com"
+    origin: "https://mernpastebin-production.onrender.com"
 }));
 
 app.use(express.json());

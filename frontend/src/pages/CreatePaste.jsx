@@ -90,7 +90,7 @@ export default function CreatePaste() {
           <div className="mt-4 p-3 bg-green-100 rounded">
             <p className="text-sm font-semibold">Shareable URL:</p>
             <a
-              href={`http://localhost:5173/p/${pasteId}`} 
+              href={`${window.location.origin}/p/${pasteId}`}
               target="_blank"
               rel="noreferrer"
               className="text-blue-600 break-all underline"
